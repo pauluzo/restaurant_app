@@ -10,7 +10,7 @@
 
 * See a gif of the app in action.
 
-![Oak Restaurant App Demo](oak_app_gif.gif =400x600)
+<img src="oak_app_gif.gif" width="400" height="600" />
 
 
 
