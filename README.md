@@ -8,9 +8,9 @@
 
 * Please make create branches where you deem necessary.
 
-* See a gif of the app in action below.
+* See a gif of the app in action.
 
-* ![Oak Restaurant App Demo](assets\images\oak_app_gif.gif)
+![Oak Restaurant App Demo](oak_app_gif.gif)
 
 
 
