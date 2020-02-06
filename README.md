@@ -6,7 +6,7 @@
 
 * This is a demo restaurant app designed using BLoC pattern architecture and reactive programming for state management. It enjoys a flexibility of use and is easily maintainable and scalable. 
 
-* Please make create branches where you deem necessary.
+* Please fork and make changes, where you deem necessary.
 
 * See a gif of the app in action.
 
